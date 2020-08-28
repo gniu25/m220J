@@ -1,6 +1,6 @@
 # M220J: MongoDB for Java Developers
 
-##M220J: MongoDB for Java Developers
+## M220J: MongoDB for Java Developers
 
 This course will teach you how to use MongoDB as the database for a Java application.
 
