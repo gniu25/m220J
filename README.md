@@ -10,4 +10,5 @@ You'll play the role of a back-end developer for a Java application, and your jo
 * Using the Aggregation Framework
 * Managing the configuration of the database client through the Java driver
 * Creating a robust application by handling exceptions and timeouts
+
 **Prerequisites:** We highly recommend taking M001 prior to taking this course. A basic understanding of MongoDB's document model as well as familiarity with Java development environments will help you get the most out of this course.
